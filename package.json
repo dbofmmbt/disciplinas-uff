@@ -1,12 +1,13 @@
 {
- "scripts": {
-  "extractor": "node extractor.js",
-  "calendar": "npx http-server -o ./static"
- },
- "type": "module",
- "dependencies": {
-  "http-server": "^14.1.1",
-  "mocha": "^10.2.0",
-  "selenium-webdriver": "^4.18.1"
- }
+  "packageManager": "pnpm@9.15.2",
+  "scripts": {
+    "extractor": "node extractor.js",
+    "calendar": "npx http-server -o ./static"
+  },
+  "type": "module",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.18.1"
+  }
 }

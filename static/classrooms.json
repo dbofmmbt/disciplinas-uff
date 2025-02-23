@@ -1,1034 +1,614 @@
 {
-    "classrooms": [
-        {
-            "code": "TEP00108",
-            "name": "ADMINISTRAÇÃO APLICADA À ENGENHARIA",
-            "teacher": "MARCOS",
-            "segunda": "09:00-13:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00108",
-            "name": "ADMINISTRAÇÃO APLICADA À ENGENHARIA",
-            "teacher": "VALDECY",
-            "segunda": "14:00-18:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00108",
-            "name": "ADMINISTRAÇÃO APLICADA À ENGENHARIA",
-            "teacher": "LUIZ",
-            "segunda": "",
-            "terca": "09:00-13:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00005",
-            "name": "ATIVIDADES COMPLEMENTARES II",
-            "teacher": "RAPHAEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00005",
-            "name": "ATIVIDADES COMPLEMENTARES II",
-            "teacher": "Sem professor alocado",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "18:00-22:00"
-        },
-        {
-            "code": "TCC00287",
-            "name": "BANCO DE DADOS I",
-            "teacher": "LUIZ",
-            "segunda": "09:00-11:00",
-            "terca": "",
-            "quarta": "09:00-11:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00288",
-            "name": "BANCO DE DADOS II",
-            "teacher": "LUIZ",
-            "segunda": "07:00-09:00",
-            "terca": "",
-            "quarta": "07:00-09:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00336",
-            "name": "BANCOS DE DADOS NÃO CONVENCIONAIS",
-            "teacher": "MARCOS",
-            "segunda": "",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": "20:00-22:00"
-        },
-        {
-            "code": "TEP00124",
-            "name": "CIÊNCIA E TECNOLOGIA",
-            "teacher": "MARA",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "14:00-18:00",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "Sem professor alocado",
-            "segunda": "16:00-18:00",
-            "terca": "",
-            "quarta": "16:00-18:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "HAROLDO",
-            "segunda": "10:00-12:00,14:00-16:00",
-            "terca": "",
-            "quarta": "10:00-12:00,14:00-16:00",
-            "quinta": "",
-            "sexta": "10:00-12:00,14:00-16:00"
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "JULIANA",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "RICARDO",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "JULIANA",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00144",
-            "name": "COMPLEMENTOS DE MATEMÁTICA APLICADA",
-            "teacher": "RICARDO",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GSI00433",
-            "name": "COMPORTAMENTO ORGANIZACIONAL",
-            "teacher": "Sem professor alocado",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GSI00433",
-            "name": "COMPORTAMENTO ORGANIZACIONAL",
-            "teacher": "Sem professor alocado",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00222",
-            "name": "COMPUTAÇÃO E SOCIEDADE PARA SISTEMAS DE INFORMAÇÃO",
-            "teacher": "MARCELO",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "18:00-22:00"
-        },
-        {
-            "code": "STA00168",
-            "name": "DESENVOLVIMENTO DE PESSOAS",
-            "teacher": "AMERICO",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00226",
-            "name": "DESENVOLVIMENTO WEB",
-            "teacher": "CARLOS",
-            "segunda": "09:00-11:00",
-            "terca": "",
-            "quarta": "09:00-11:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00364",
-            "name": "DESENVOLVIMENTO WEB AVANÇADO",
-            "teacher": "LUIZ",
-            "segunda": "",
-            "terca": "20:00-22:00",
-            "quarta": "",
-            "quinta": "20:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00006",
-            "name": "EMPREENDEDORISMO",
-            "teacher": "FERNANDO",
-            "segunda": "",
-            "terca": "14:00-18:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00006",
-            "name": "EMPREENDEDORISMO",
-            "teacher": "FERNANDO",
-            "segunda": "14:00-18:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00225",
-            "name": "ENGENHARIA DE SOFTWARE",
-            "teacher": "JOSE",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00292",
-            "name": "ENGENHARIA DE SOFTWARE I",
-            "teacher": "TROY",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": "",
-            "segunda": ""
-        },
-        {
-            "code": "TCC00293",
-            "name": "ENGENHARIA DE SOFTWARE II",
-            "teacher": "LEONARDO",
-            "segunda": "",
-            "terca": "07:00-09:00",
-            "quarta": "",
-            "quinta": "07:00-09:00",
-            "sexta": ""
-        },
-        {
-            "code": "GET00177",
-            "name": "ESTATÍSTICA BÁSICA",
-            "teacher": "GUILHERME",
-            "segunda": "09:00-11:00",
-            "terca": "",
-            "quarta": "09:00-11:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GET00177",
-            "name": "ESTATÍSTICA BÁSICA",
-            "teacher": "MARIA",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GET00177",
-            "name": "ESTATÍSTICA BÁSICA",
-            "teacher": "MARIA",
-            "segunda": "16:00-18:00",
-            "terca": "",
-            "quarta": "16:00-18:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GET00177",
-            "name": "ESTATÍSTICA BÁSICA",
-            "teacher": "JOSE",
-            "segunda": "",
-            "terca": "16:00-18:00",
-            "quarta": "",
-            "quinta": "16:00-18:00",
-            "sexta": ""
-        },
-        {
-            "code": "GET00177",
-            "name": "ESTATÍSTICA BÁSICA",
-            "teacher": "MARCIO",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00348",
-            "name": "ESTRUTURAS DE DADOS E SEUS ALGORITIMOS",
-            "teacher": "ISABEL",
-            "segunda": "",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00348",
-            "name": "ESTRUTURAS DE DADOS E SEUS ALGORITIMOS",
-            "teacher": "CHRISTIANO",
-            "segunda": "",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00348",
-            "name": "ESTRUTURAS DE DADOS E SEUS ALGORITIMOS",
-            "teacher": "PEDRO",
-            "segunda": "09:00-13:00",
-            "terca": "09:00-13:00",
-            "quarta": "09:00-13:00",
-            "quinta": "09:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00331",
-            "name": "ESTRUTURAS DE DADOS PARA SISTEMAS DE INFORMAÇÃO",
-            "teacher": "TAIANE",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GET00116",
-            "name": "FUNDAMENTOS DE ESTATISTICA APLICADA",
-            "teacher": "MAIARA",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00332",
-            "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
-            "teacher": "MARIZA",
-            "segunda": "",
-            "terca": "20:00-22:00",
-            "quarta": "",
-            "quinta": "20:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00332",
-            "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
-            "teacher": "LEONARDO",
-            "segunda": "",
-            "terca": "20:00-22:00",
-            "quarta": "",
-            "quinta": "20:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00354",
-            "name": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
-            "teacher": "RAQUEL",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00354",
-            "name": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
-            "teacher": "UEVERTON",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00111",
-            "name": "GERENCIAMENTO DE PROJETOS I",
-            "teacher": "JOSE",
-            "segunda": "",
-            "terca": "07:00-11:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TEP00111",
-            "name": "GERENCIAMENTO DE PROJETOS I",
-            "teacher": "RUBEN",
-            "segunda": "",
-            "terca": "",
-            "quarta": "09:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00363",
-            "name": "GERÊNCIA DE PROJETO E MANUTENÇÃO DE SOFTWARE",
-            "teacher": "RODRIGO",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TEC00284",
-            "name": "GESTÃO ESTRATÉGICA DE EMPRESAS",
-            "teacher": "OSVALDO",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-21:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00324",
-            "name": "GOVERNANÇA EM TECNOLOGIA DA INFORMAÇÃO",
-            "teacher": "LUCIANA",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "STA00191",
-            "name": "INTELIGÊNCIA DE NEGÓCIOS",
-            "teacher": "ELAINE",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00298",
-            "name": "INTERFACE HOMEM-MÁQUINA",
-            "teacher": "DANIELA",
-            "segunda": "",
-            "terca": "",
-            "quarta": "09:00-11:00",
-            "quinta": "",
-            "sexta": "09:00-11:00"
-        },
-        {
-            "code": "TCC00337",
-            "name": "INTRODUÇÃO A INTERAÇÃO HUMANO-COMPUTADOR",
-            "teacher": "LUCIANA",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00361",
-            "name": "INTRODUÇÃO AO DESENVOLVIMENTO WEB",
-            "teacher": "LEONARDO",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00355",
-            "name": "LABORATÓRIO DE RESOLUÇÃO DE PROBLEMAS",
-            "teacher": "CARLOS",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00355",
-            "name": "LABORATÓRIO DE RESOLUÇÃO DE PROBLEMAS",
-            "teacher": "LEONARDO",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00167",
-            "name": "MATEMÁTICA DISCRETA",
-            "teacher": "JORGE",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "GAN00167",
-            "name": "MATEMÁTICA DISCRETA",
-            "teacher": "JONES",
-            "segunda": "14:00-16:00",
-            "terca": "",
-            "quarta": "14:00-16:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00330",
-            "name": "MODELAGEM DE PROCESSOS DE NEGÓCIOS",
-            "teacher": "FLAVIO",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "STA00267",
-            "name": "MODELOS DE GESTÃO CONTEMPORÂNEA",
-            "teacher": "Sem professor alocado",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00334",
-            "name": "PRINCÍPIOS DE BANCO DE DADOS",
-            "teacher": "DANIEL",
-            "segunda": "20:00-22:00",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00308",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES I",
-            "teacher": "LUIS",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00366",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES I",
-            "teacher": "LEONARDO",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00308",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES I",
-            "teacher": "YURI",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00366",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES I",
-            "teacher": "DANTE",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00308",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES I",
-            "teacher": "DANTE",
-            "segunda": "",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": "11:00-13:00"
-        },
-        {
-            "code": "TCC00356",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES II",
-            "teacher": "PATRICK",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00356",
-            "name": "PROGRAMAÇÃO DE COMPUTADORES II",
-            "teacher": "PEDRO",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00347",
-            "name": "PROGRAMAÇÃO ESTRUTURADA",
-            "teacher": "PATRICK",
-            "segunda": "16:00-18:00",
-            "terca": "",
-            "quarta": "16:00-18:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00347",
-            "name": "PROGRAMAÇÃO ESTRUTURADA",
-            "teacher": "ISABEL",
-            "segunda": "",
-            "terca": "09:00-11:00",
-            "quarta": "",
-            "quinta": "09:00-11:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00347",
-            "name": "PROGRAMAÇÃO ESTRUTURADA",
-            "teacher": "ALINE",
-            "segunda": "",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00328",
-            "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
-            "teacher": "ANSELMO",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "11:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00328",
-            "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS",
-            "teacher": "IGOR",
-            "segunda": "16:00-18:00",
-            "terca": "",
-            "quarta": "16:00-18:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00357",
-            "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS I",
-            "teacher": "LUIZ",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "18:00-22:00"
-        },
-        {
-            "code": "TCC00357",
-            "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS I",
-            "teacher": "FLAVIA",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00002",
-            "name": "PROJETO DE APLICAÇÃO I",
-            "teacher": "RAPHAEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00003",
-            "name": "PROJETO DE APLICAÇÃO II",
-            "teacher": "RAPHAEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00003",
-            "name": "PROJETO DE APLICAÇÃO II",
-            "teacher": "Sem professor alocado",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00335",
-            "name": "PROJETO DE BANCO DE DADOS PARA SISTEMAS DE INFORMAÇÃO",
-            "teacher": "MARCOS",
-            "segunda": "",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": "18:00-20:00"
-        },
-        {
-            "code": "TCC00312",
-            "name": "PROJETO DE SOFTWARE",
-            "teacher": "VANIA",
-            "segunda": "11:00-13:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "11:00-13:00"
-        },
-        {
-            "code": "TCC00338",
-            "name": "PROJETO DE SOFTWARE",
-            "teacher": "TROY",
-            "segunda": "",
-            "terca": "20:00-22:00",
-            "quarta": "",
-            "quinta": "20:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "SDV00143",
-            "name": "PROPRIEDADE INTELECTUAL",
-            "teacher": "MYLENA",
-            "segunda": "",
-            "terca": "20:00-22:00,18:00-20:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00365",
-            "name": "QUALIDADE E TESTE DE SOFTWARE",
-            "teacher": "VANIA",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00359",
-            "name": "REDES DE COMPUTADORES",
-            "teacher": "FLAVIO",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00313",
-            "name": "REDES DE COMPUTADORES I",
-            "teacher": "CELIO",
-            "segunda": "",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00314",
-            "name": "REDES DE COMPUTADORES II",
-            "teacher": "DEBORA",
-            "segunda": "",
-            "terca": "09:00-11:00",
-            "quarta": "",
-            "quinta": "09:00-11:00",
-            "sexta": ""
-        },
-        {
-            "code": "GCI00126",
-            "name": "REPRESENTAÇÃO DA INFORMAÇÃO",
-            "teacher": "LINAIR",
-            "segunda": "18:00-22:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00341",
-            "name": "SEGURANÇA DA INFORMAÇÃO",
-            "teacher": "IGOR",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "CGI00004",
-            "name": "SEMINÁRIOS EM SISTEMAS DE INFORMAÇÃO",
-            "teacher": "RAPHAEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "18:00-20:00"
-        },
-        {
-            "code": "TCC00358",
-            "name": "SISTEMAS COMPUTACIONAIS",
-            "teacher": "SIMONE",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00358",
-            "name": "SISTEMAS COMPUTACIONAIS",
-            "teacher": "ALINE",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00362",
-            "name": "SISTEMAS DISTRIBUÍDOS PARA SISTEMAS DE INFORMAÇÃO",
-            "teacher": "RAPHAEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "20:00-22:00",
-            "quinta": "",
-            "sexta": "20:00-22:00"
-        },
-        {
-            "code": "TCC00271",
-            "name": "TÓPICOS EM LINGUAGEM DE PROGRAMAÇÃO I",
-            "teacher": "PATRICK",
-            "segunda": "14:00-16:00",
-            "terca": "14:00-16:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00244",
-            "name": "TÓPICOS EM BANCO DE DADOS I",
-            "teacher": "VANESSA",
-            "segunda": "",
-            "terca": "16:00-18:00",
-            "quarta": "",
-            "quinta": "16:00-18:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00245",
-            "name": "TÓPICOS EM BANCO DE DADOS II",
-            "teacher": "DANIEL",
-            "segunda": "18:00-20:00",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00242",
-            "name": "TÓPICOS EM COMPUTAÇÃO II",
-            "teacher": "ESTEBAN",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "09:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC04087",
-            "name": "TÓPICOS EM ENGENHARIA DE SOFTWARE I",
-            "teacher": "LEONARDO",
-            "segunda": "",
-            "terca": "09:00-11:00",
-            "quarta": "",
-            "quinta": "09:00-11:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00262",
-            "name": "TÓPICOS EM INFORMÁTICA NA EDUCAÇÃO I",
-            "teacher": "ISABEL",
-            "segunda": "",
-            "terca": "",
-            "quarta": "09:00-13:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00259",
-            "name": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL I",
-            "teacher": "MARIZA",
-            "segunda": "",
-            "terca": "18:00-20:00",
-            "quarta": "",
-            "quinta": "18:00-20:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00261",
-            "name": "TÓPICOS EM INTELIGÊNCIA ARTIFICIAL III",
-            "teacher": "LUIZ",
-            "segunda": "14:00-16:00",
-            "terca": "",
-            "quarta": "09:00-11:00",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00274",
-            "name": "TÓPICOS EM REDES DE COMPUTADORES I",
-            "teacher": "CELIO",
-            "segunda": "",
-            "terca": "09:00-11:00",
-            "quarta": "",
-            "quinta": "09:00-11:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00275",
-            "name": "TÓPICOS EM REDES DE COMPUTADORES II",
-            "teacher": "FLAVIA",
-            "segunda": "",
-            "terca": "11:00-13:00",
-            "quarta": "",
-            "quinta": "11:00-13:00",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00276",
-            "name": "TÓPICOS EM REDES DE COMPUTADORES III",
-            "teacher": "ANTONIO",
-            "segunda": "",
-            "terca": "18:00-22:00",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00253",
-            "name": "TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO I",
-            "teacher": "FLAVIA",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "18:00-22:00"
-        },
-        {
-            "code": "TCC00254",
-            "name": "TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO II",
-            "teacher": "LUIS",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": "09:00-13:00"
-        },
-        {
-            "code": "TCC00255",
-            "name": "TÓPICOS ESPECIAIS EM SISTEMAS DE PROGRAMAÇÃO III",
-            "teacher": "MARCELO",
-            "segunda": "18:00-22:00",
-            "terca": "",
-            "quarta": "",
-            "quinta": "",
-            "sexta": ""
-        },
-        {
-            "code": "TCC00360",
-            "name": "VISUALIZAÇÃO DE DADOS",
-            "teacher": "MARCOS",
-            "segunda": "",
-            "terca": "",
-            "quarta": "18:00-20:00",
-            "quinta": "",
-            "sexta": "18:00-20:00"
-        },
-        {
-            "code": "GCI00116",
-            "name": "ÉTICA E INFORMAÇÃO",
-            "teacher": "CHRISTIANO",
-            "segunda": "",
-            "terca": "",
-            "quarta": "",
-            "quinta": "18:00-22:00",
-            "sexta": ""
-        }
-    ]
+  "classrooms": [
+    {
+      "code": "TEP00108",
+      "name": "ADMINISTRAÇÃO APLICADA À ENGENHARIA",
+      "teacher": "VALDECY",
+      "segunda": "14:00-18:00",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00336",
+      "name": "BANCOS DE DADOS NÃO CONVENCIONAIS",
+      "teacher": "MARCOS",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TEM00187",
+      "name": "CIÊNCIA E TECNOLOGIA",
+      "teacher": "FABIANA",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "14:00-16:00"
+    },
+    {
+      "code": "TEP00124",
+      "name": "CIÊNCIA E TECNOLOGIA",
+      "teacher": "MARA",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "14:00-18:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00222",
+      "name": "COMPUTAÇÃO E SOCIEDADE PARA SISTEMAS DE INFORMAÇÃO",
+      "teacher": "JOSE",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "18:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "GMA00154",
+      "name": "CÁLCULO 1",
+      "teacher": "MARIO",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GMA00154",
+      "name": "CÁLCULO 1",
+      "teacher": "MARIO",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "STA00168",
+      "name": "DESENVOLVIMENTO DE PESSOAS",
+      "teacher": "FERNANDO",
+      "segunda": "",
+      "terca": "18:00-22:00",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00364",
+      "name": "DESENVOLVIMENTO WEB AVANÇADO",
+      "teacher": "YURI",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "18:00-22:00"
+    },
+    {
+      "code": "TEP00122",
+      "name": "ECONOMIA E GESTÃO DA INOVAÇÃO",
+      "teacher": "EMMANUEL",
+      "segunda": "",
+      "terca": "",
+      "quarta": "16:00-18:00",
+      "quinta": "",
+      "sexta": "16:00-18:00"
+    },
+    {
+      "code": "TEP00006",
+      "name": "EMPREENDEDORISMO",
+      "teacher": "NOEMI",
+      "segunda": "",
+      "terca": "14:00-18:00",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00212",
+      "name": "EMPREENDEDORISMO",
+      "teacher": "DANIELA",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "TEP00006",
+      "name": "EMPREENDEDORISMO",
+      "teacher": "NOEMI",
+      "segunda": "14:00-18:00",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00225",
+      "name": "ENGENHARIA DE SOFTWARE",
+      "teacher": "REBECA",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "LUZ",
+      "segunda": "09:00-11:00",
+      "terca": "",
+      "quarta": "09:00-11:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "ANDERSON",
+      "segunda": "11:00-13:00",
+      "terca": "",
+      "quarta": "11:00-13:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "ANDERSON",
+      "segunda": "14:00-16:00",
+      "terca": "",
+      "quarta": "14:00-16:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "KEILA",
+      "segunda": "16:00-18:00",
+      "terca": "",
+      "quarta": "16:00-18:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "KEILA",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "LUZ",
+      "segunda": "",
+      "terca": "09:00-11:00",
+      "quarta": "",
+      "quinta": "09:00-11:00",
+      "sexta": ""
+    },
+    {
+      "code": "GET00177",
+      "name": "ESTATÍSTICA BÁSICA",
+      "teacher": "MARCIO",
+      "segunda": "",
+      "sexta": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00"
+    },
+    {
+      "code": "TCC00331",
+      "name": "ESTRUTURAS DE DADOS PARA SISTEMAS DE INFORMAÇÃO",
+      "teacher": "TAIANE",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00116",
+      "name": "FUNDAMENTOS DE ESTATISTICA APLICADA",
+      "teacher": "LUDMILLA",
+      "segunda": "11:00-13:00",
+      "terca": "",
+      "quarta": "11:00-13:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00116",
+      "name": "FUNDAMENTOS DE ESTATISTICA APLICADA",
+      "teacher": "ADRIAN",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GET00116",
+      "name": "FUNDAMENTOS DE ESTATISTICA APLICADA",
+      "teacher": "JOSE",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00332",
+      "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+      "teacher": "LEONARDO",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00332",
+      "name": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+      "teacher": "RODRIGO",
+      "segunda": "",
+      "terca": "20:00-22:00",
+      "quarta": "",
+      "quinta": "20:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00354",
+      "name": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+      "teacher": "RAQUEL",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00354",
+      "name": "FUNDAMENTOS MATEMÁTICOS PARA COMPUTAÇÃO",
+      "teacher": "CARLOS",
+      "segunda": "",
+      "terca": "20:00-22:00",
+      "quarta": "",
+      "quinta": "20:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TEP00111",
+      "name": "GERENCIAMENTO DE PROJETOS I",
+      "teacher": "JOSE",
+      "segunda": "",
+      "terca": "07:00-11:00",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00363",
+      "name": "GERÊNCIA DE PROJETO E MANUTENÇÃO DE SOFTWARE",
+      "teacher": "JOÃO",
+      "segunda": "",
+      "terca": "20:00-22:00",
+      "quarta": "",
+      "quinta": "20:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00324",
+      "name": "GOVERNANÇA EM TECNOLOGIA DA INFORMAÇÃO",
+      "teacher": "LUCIANA",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "STA00191",
+      "name": "INTELIGÊNCIA DE NEGÓCIOS",
+      "teacher": "ELAINE",
+      "segunda": "",
+      "terca": "18:00-22:00",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00337",
+      "name": "INTRODUÇÃO A INTERAÇÃO HUMANO-COMPUTADOR",
+      "teacher": "LUCIANA",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00361",
+      "name": "INTRODUÇÃO AO DESENVOLVIMENTO WEB",
+      "teacher": "HELENO",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "18:00-22:00"
+    },
+    {
+      "code": "TCC00355",
+      "name": "LABORATÓRIO DE RESOLUÇÃO DE PROBLEMAS",
+      "teacher": "LEANDRO",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00355",
+      "name": "LABORATÓRIO DE RESOLUÇÃO DE PROBLEMAS",
+      "teacher": "LEONARDO",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00330",
+      "name": "MODELAGEM DE PROCESSOS DE NEGÓCIOS",
+      "teacher": "FLAVIO",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "STA00267",
+      "name": "MODELOS DE GESTÃO CONTEMPORÂNEA",
+      "teacher": "MARIANA",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "18:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00334",
+      "name": "PRINCÍPIOS DE BANCO DE DADOS",
+      "teacher": "MARCOS",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00366",
+      "name": "PROGRAMAÇÃO DE COMPUTADORES I",
+      "teacher": "LEONARDO",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00308",
+      "name": "PROGRAMAÇÃO DE COMPUTADORES I",
+      "teacher": "JOSE",
+      "segunda": "16:00-18:00",
+      "terca": "",
+      "quarta": "16:00-18:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00366",
+      "name": "PROGRAMAÇÃO DE COMPUTADORES I",
+      "teacher": "HELENO",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00356",
+      "name": "PROGRAMAÇÃO DE COMPUTADORES II",
+      "teacher": "PATRICK",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00356",
+      "name": "PROGRAMAÇÃO DE COMPUTADORES II",
+      "teacher": "PATRICK",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00347",
+      "name": "PROGRAMAÇÃO ESTRUTURADA",
+      "teacher": "ISABEL",
+      "segunda": "",
+      "terca": "09:00-11:00",
+      "quarta": "",
+      "quinta": "09:00-11:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00357",
+      "name": "PROGRAMAÇÃO ORIENTADA A OBJETOS I",
+      "teacher": "MAURICIO",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": "18:00-22:00"
+    },
+    {
+      "code": "TCC00335",
+      "name": "PROJETO DE BANCO DE DADOS PARA SISTEMAS DE INFORMAÇÃO",
+      "teacher": "DANIEL",
+      "segunda": "",
+      "terca": "20:00-22:00",
+      "quarta": "",
+      "quinta": "20:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00338",
+      "name": "PROJETO DE SOFTWARE",
+      "teacher": "JOÃO",
+      "segunda": "",
+      "terca": "18:00-20:00",
+      "quarta": "",
+      "quinta": "18:00-20:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00311",
+      "name": "PROJETO FINAL II",
+      "teacher": "SIMONE",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00311",
+      "name": "PROJETO FINAL II",
+      "teacher": "SIMONE",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "SDV00143",
+      "name": "PROPRIEDADE INTELECTUAL",
+      "teacher": "CLARISSE",
+      "segunda": "",
+      "terca": "20:00-22:00,18:00-20:00",
+      "quarta": "",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00359",
+      "name": "REDES DE COMPUTADORES",
+      "teacher": "FLAVIO",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00313",
+      "name": "REDES DE COMPUTADORES I",
+      "teacher": "CELIO",
+      "segunda": "",
+      "terca": "07:00-09:00",
+      "quarta": "",
+      "quinta": "07:00-09:00",
+      "sexta": ""
+    },
+    {
+      "code": "GCI00126",
+      "name": "REPRESENTAÇÃO DA INFORMAÇÃO",
+      "teacher": "CHRISTIANO",
+      "segunda": "",
+      "terca": "",
+      "quarta": "18:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00358",
+      "name": "SISTEMAS COMPUTACIONAIS",
+      "teacher": "ALINE",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "18:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00358",
+      "name": "SISTEMAS COMPUTACIONAIS",
+      "teacher": "MARIA",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "18:00-22:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00315",
+      "name": "SISTEMAS DISTRIBUÍDOS",
+      "teacher": "FLAVIA",
+      "segunda": "",
+      "terca": "07:00-09:00",
+      "quarta": "",
+      "quinta": "07:00-09:00",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00362",
+      "name": "SISTEMAS DISTRIBUÍDOS PARA SISTEMAS DE INFORMAÇÃO",
+      "teacher": "RAPHAEL",
+      "segunda": "20:00-22:00",
+      "terca": "",
+      "quarta": "20:00-22:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "TCC00360",
+      "name": "VISUALIZAÇÃO DE DADOS",
+      "teacher": "MARCOS",
+      "segunda": "18:00-20:00",
+      "terca": "",
+      "quarta": "18:00-20:00",
+      "quinta": "",
+      "sexta": ""
+    },
+    {
+      "code": "GCI00116",
+      "name": "ÉTICA E INFORMAÇÃO",
+      "teacher": "CHRISTIANO",
+      "segunda": "",
+      "terca": "",
+      "quarta": "",
+      "quinta": "18:00-22:00",
+      "sexta": ""
+    }
+  ]
 }

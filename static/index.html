@@ -17,7 +17,12 @@
       import { Calendar } from "@fullcalendar/core";
       import TimeGridPlugin from "@fullcalendar/timegrid";
 
-      import { classrooms } from "./classrooms.json" assert { type: "json" }
+      import rawClassrooms from "./classrooms.json" with { type: "json" }
+      import config from "./config.json" with { type: "json" }
+
+      const ignoreMap = config.ignore.reduce((map, subject) => (map[subject] = true, map), {});
+      
+      const classrooms = rawClassrooms.classrooms.filter((classroom) => !ignoreMap[classroom.code]);
 
       document.addEventListener("DOMContentLoaded", function () {
         var calendar = new Calendar(document.getElementById("calendar"), {

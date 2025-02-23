@@ -1,5 +1,5 @@
 import { Builder, By, Select } from "selenium-webdriver";
-import input from "./input.json" assert { type: "json" };
+import input from "./input.json" with { type: "json" };
 
 import fs from "node:fs";
 
