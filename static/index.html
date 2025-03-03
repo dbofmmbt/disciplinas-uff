@@ -22,7 +22,9 @@
 
       const ignoreMap = config.ignore.reduce((map, subject) => (map[subject] = true, map), {});
       
-      const classrooms = rawClassrooms.classrooms.filter((classroom) => !ignoreMap[classroom.code]);
+      const classrooms = rawClassrooms.classrooms
+                          .filter((classroom) => !ignoreMap[classroom.code])
+                          .filter((classroom) => !(config.removeTopics && classroom.name.startsWith("TÓPICOS")));
 
       document.addEventListener("DOMContentLoaded", function () {
         var calendar = new Calendar(document.getElementById("calendar"), {
@@ -58,11 +60,21 @@
               if (time) {
                 const [start, end] = time.split("-");
 
+                let color = "";
+
+                if (classroom.required) {
+                  color = "red";
+                }
+
+                if (config.selected.find(code => classroom.code === code)) {
+                  color = "green";
+                }
+
                 classroomEvents.push({
                   title: `${classroom.code} | ${classroom.teacher}  | ${classroom.name}`,
                   start: `${WEEKDAY_MAPPING[day]}T${start}`,
                   end: `${WEEKDAY_MAPPING[day]}T${end}`,
-                  color: classroom.required ? "red"  : ""
+                  color
                 });
               }
             };
