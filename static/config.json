@@ -1,5 +1,12 @@
 {
     "ignore": [
+        "TCC00330",
+        "GGM00137",
+        "GAN00166",
+        "TCC00205",
+        "TCC00195",
+        "GMA00150",
+        "TCC00226",
         "GET00177",
         "GET00116",
         "TCC00308",
@@ -42,14 +49,24 @@
         "TCC00297",
         "TCC00292",
         "CGI00004",
-        "GSI00433"
-    ],
-    "removeTopics": true,
-    "selected": [
+        "GSI00433",
         "TCC00359",
         "STA00267",
         "TCC00330",
         "STA00168",
-        "TCC00361"
+        "TCC00361",
+        "STE00018",
+        "TCC00200",
+        "STE00014",
+        "STE00005",
+        "TCC00367"
+    ],
+    "removeTopics": true,
+    "selected": [
+        "TCC00336",
+        "GCI00126",
+        "GCI00116",
+        "TCC00360",
+        "TCC00362"
     ]
 }
